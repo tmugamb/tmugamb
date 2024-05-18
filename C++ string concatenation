@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World! \n";
+    string firstName = "Tedla ";
+    string lastName = "Doe";
+    string fullName = firstName.append(lastName);
+    cout << fullName;
+    return 0;
+}
