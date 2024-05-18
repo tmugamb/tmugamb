@@ -1,0 +1,10 @@
+int x, y;
+int sum;
+cout << "Type a number: ";
+cin >> x;
+cout << "Type a number: ";
+cin >> y;
+cout << "Type another number: ";
+cin >> z;
+sum = x + y + z;
+cout << "Sum is: " << sum;
