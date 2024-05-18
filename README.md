@@ -1,5 +1,5 @@
 - 👋 Hi, I’m teddla
-- 👀 I’m interested in coding, web development and prohect management
+- 👀 I’m interested in coding, web development and project management
 - 🌱 I’m currently learning data structures and algorithms and cbersecurity
 - 💞️ I’m looking to collaborate with people who share the same ideas as i have
 - 📫 You can reach me out on gmail at teddlamugambi@gmail.com 
